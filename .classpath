@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="javaee-5.0.jar"/>
+	<classpathentry kind="lib" path="javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="jsse-2.0.5.jar"/>
+	<classpathentry kind="lib" path="activation.jar"/>
+	<classpathentry kind="lib" path="mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
